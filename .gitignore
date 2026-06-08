@@ -1,0 +1,60 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# IDEs
+
+.vscode/
+.idea/
+.spyproject/
+
+# Environment files
+
+.env
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+# Cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Model outputs
+
+*.pkl
+*.joblib
+
+# Generated reports
+
+reports/
+figures/
+
+# Data backups
+
+*.bak
+*.tmp
